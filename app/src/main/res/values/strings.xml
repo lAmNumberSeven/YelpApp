@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">hw5_yelp</string>
+    <string name="button">Search</string>
+    <string name="location">Enter Location such as New Britain</string>
+    <string name="food">Search for Food</string>
+</resources>
